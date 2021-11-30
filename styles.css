@@ -1,0 +1,21 @@
+/*estilo para el documento*/
+body {
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    background-color: #000;
+}
+
+/*estilo para los enlaces*/
+a :link {
+    color: #ff0;
+}
+
+a :visited {
+    color: #ff0;
+}
+
+/*estilo para posicionart el puntero encima del enlace */
+footer address a:hover {
+    color: #ff0;
+}
